@@ -13,5 +13,4 @@ class Person:
         else:
             print "You are old."
     def yearPasses(self):
-    	global age
         self.age += 1
